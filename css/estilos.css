@@ -11,6 +11,16 @@ body{
     border: 1px solid #ccc;
     border-radius: 0 0 10px 10px;
 }
+#cabecera{
+    background-color: burlywood;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#cabecera span{
+    font-weight: normal;
+}
 
 #post{
     padding: 1rem;
